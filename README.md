@@ -1,10 +1,10 @@
-# Blockonomics Django Demo 
+# E-store-Bitcon-payment-Checkout
 
-This Demo uses Blockonomics Payment API - https://www.blockonomics.co/views/api.html#payments. 
+This Project uses Blockonomics Payment API - https://www.blockonomics.co/views/api.html#payments. 
 
 ## How to SetUp
 
-* `git clone https://github.com/AJ-54/Blockonomics.git`
+* `git clone https://github.com/koechgideon/E-store-Bitcon-payment-Checkout-.git`
 * Install packages via `pip install -r requirements.txt`
 * Login to blockonomics account and visit https://www.blockonomics.co/merchants#/page3
 * Inside Blockonomics folder, go to settings.py file and place your blockonomics API KEY to the API_KEY variable  
